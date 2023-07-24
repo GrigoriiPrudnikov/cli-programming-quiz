@@ -1,0 +1,29 @@
+{
+	"name": "cli-programming-quiz",
+	"version": "1.0.0",
+	"description": "",
+	"main": "src/index.js",
+	"type": "module",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"keywords": [
+		"cli",
+		"javascript",
+		"node",
+		"yarn"
+	],
+	"author": "Grigorii Prudnikov <griprudnikov742@gmail.com>",
+	"license": "MIT",
+	"homepage": "",
+	"dependencies": {
+		"chalk": "^5.3.0",
+		"chalk-animation": "^2.0.3",
+		"figlet": "^1.6.0",
+		"gradient-string": "^2.0.2",
+		"inquirer": "^9.2.8",
+		"nanospinner": "^1.1.0"
+	}
+}
